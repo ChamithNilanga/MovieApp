@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_movie">Add Movie</string>
+    <string name="title_activity_movie_detail">Movie Detail</string>
+    <string name="title_activity_movie_list">Movie List</string>
+    <string name="title_activity_movie_add">Add Movie Details</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancle">Cancle</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_year">Movie Year</string>
+    <string name="movie_genre">Movie Genre</string>
+    <string name="fiction">Is Fiction</string>
+    <string name="movie_score">Score</string>
+    <string name="movie_cast">Cast</string>
+    <string-array name="fiction_array">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="score_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
